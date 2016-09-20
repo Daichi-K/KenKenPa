@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\ResultScore.cs">
+    <Files>
+      <File FileName="Assets\Script\CreateScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SingleCircleScale.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MoveCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ResultScore.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
